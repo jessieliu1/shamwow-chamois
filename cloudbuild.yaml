@@ -4,10 +4,3 @@ steps:
   args: ['echo', 'hello world!']
 options:
   workerPool: 'projects/834272249548/locations/us-east1/workerPools/test-pool'
-# gitConfig:
-#   http:
-#     proxySecretVersionName: 'projects/834272249548/secrets/test-proxy/versions/1'
-#     proxySslCaInfo: 
-#       bucket: 'private-ca-test'
-#       object: 'bump.crt'
-#       generation: 1616511169619238
