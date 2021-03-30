@@ -9,4 +9,3 @@ gitConfig:
     proxySslCaInfo: 
       bucket: 'private-ca-test'
       object: 'bump.crt'
-      generation: 1616511169619238
