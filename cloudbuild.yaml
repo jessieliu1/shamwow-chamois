@@ -6,7 +6,3 @@ options:
 gitConfig:
   http:
     proxySecretVersionName: 'projects/834272249548/secrets/test-proxy/versions/4'
-    proxySslCaInfo: 
-      bucket: 'private-ca-test'
-      object: 'bump.crt'
-      generation: 1616511169619238
